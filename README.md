@@ -12,9 +12,13 @@ ings of this study can inform policymakers and wildfire management agencies in t
 resource planning and allocation decisions'''
 
 TAMIDS'23.ipynb: Integer Programming, WFL and WWF scoring
+
 WildLandFire_Local.ipynb: WFL Calculations and results
+
 Graphing_wildfires.ipynb: Feature extraction, creation and selection
+
 Data_exploration.ipynb: Exploratory Data Analysis (EDA)
 
+
 Visualization: Zip files have html files which were larger than 25 MB due to animated plots from plotly for different states over a few years.
-               
+               Other HTML files, ready to view on any browser
