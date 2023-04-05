@@ -16,3 +16,5 @@ WildLandFire_Local.ipynb: WFL Calculations and results
 Graphing_wildfires.ipynb: Feature extraction, creation and selection
 Data_exploration.ipynb: Exploratory Data Analysis (EDA)
 
+Visualization: Zip files have html files which were larger than 25 MB due to animated plots from plotly for different states over a few years.
+               
