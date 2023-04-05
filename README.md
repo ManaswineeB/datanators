@@ -1,9 +1,15 @@
 Dependencies:
+
 plotly.__version__ = 5.13.1
+
 matplotlib.__version__ = 3.5.3
+
 pandas.__version__ = 1.0.1
+
 numpy.__version__ = 1.18.1
+
 geopandas.__version__ = 0.10.2
+
 
 
 '''Resource management is an important problem for any institution to be more effec-
