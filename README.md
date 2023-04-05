@@ -1,8 +1,18 @@
-""Wildfires"": Wildfires are common across United States (and other countries) with huge loss of natural habitat and an increase in the carbon emission into the atmosphere.
-The cause is usually natural, including wind, dryness, lightning etc. There are multiple models out on the web which try to predict these based on historical data. 
+'''Resource management is an important problem for any institution to be more effec-
+tive in actions with minimal dynamic changes required. This paper presents an opti-
+mization model for managing and allocating resources for wildfire control in the United
+States. The model considers the responsibilities of both county and national/federal
+agencies and addresses the issue of optimal placement of facilities and resources to
+minimize damages caused by wildfires while also being cost-efficient. A local resource
+placement strategy is proposed, based on seasonal prediction models, and an integer-
+programming technique is used to optimize resource management and allocation within
+the states. The proposed interactive model takes into account budget constraints and
+provides an optimal resource arrangement that reduces transportation costs. The find-
+ings of this study can inform policymakers and wildfire management agencies in their
+resource planning and allocation decisions'''
 
-While efforts are made to prevent wildfires from happening constantly, without disturbing the ecology of the area, we plan on providing a consumer based solution.
-We try to provide strategies, based on various factors affecting the wildfires, to maximize the efficiency in controlling these unfortunate incidents. 
+TAMIDS'23.ipynb: Integer Programming, WFL and WWF scoring
+WildLandFire_Local.ipynb: WFL Calculations and results
+Graphing_wildfires.ipynb: Feature extraction, creation and selection
+Data_exploration.ipynb: Exploratory Data Analysis (EDA)
 
-The practices in different states depend on types of vegetation and the topography. Therefore, each state (or a group of them) is required to be looked at separately. 
-We try to propose a solution for a few states and hope to help the forest+wildfire department :)
